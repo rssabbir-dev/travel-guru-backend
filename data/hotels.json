@@ -1,0 +1,41 @@
+[
+    {
+        "id":"1",
+        "name":"Light bright airy stylish apt & safe peaceful stay",
+        "facilities":{
+            "guests":"4",
+            "bedrooms":"2",
+            "beds":"2",
+            "baths":"2"
+        },
+        "rating":4.9,
+        "perDay":50,
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Rectangle%2026.png"
+    },
+    {
+        "id":"2",
+        "name":"Apartment in Lost Panorama",
+        "facilities":{
+            "guests":"4",
+            "bedrooms":"2",
+            "beds":"2",
+            "baths":"2"
+        },
+        "rating":3.5,
+        "perDay":100,
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Rectangle%2027.png"
+    },
+    {
+        "id":"3",
+        "name":"AR Lounge & Pool (r&r + b&b)",
+        "facilities":{
+            "guests":"4",
+            "bedrooms":"2",
+            "beds":"2",
+            "baths":"2"
+        },
+        "rating":5.00,
+        "perDay":340,
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Rectangle%2028.png"
+    }
+]

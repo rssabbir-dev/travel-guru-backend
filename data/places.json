@@ -2,16 +2,19 @@
     {
         "id":"1",
         "name":"Sundorbon",
-        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/sundorbon.png"
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/sundorbon.png",
+        "description":"Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ..."
     },
     {
         "id":"2",
         "name":"Sajek",
-        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sajek.png"
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sajek.png",
+        "description":"Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ..."
     },
     {
         "id":"3",
         "name":"Sreemongol",
-        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sreemongol.png"
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sreemongol.png",
+        "description":"Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ..."
     }
 ]
