@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "name":"Sundorbon",
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/sundorbon.png"
+    },
+    {
+        "id":"2",
+        "name":"Sajek",
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sajek.png"
+    },
+    {
+        "id":"3",
+        "name":"Sreemongol",
+        "img":"https://raw.githubusercontent.com/ProgrammingHero1/travel-guru/main/images/Sreemongol.png"
+    }
+]
